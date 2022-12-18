@@ -1,6 +1,7 @@
 # Serverapp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
+The purpose of this project is to montior running status of the server.
 
 ## Development server
 
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+### App Preview :
+
+![Preview](https://user-images.githubusercontent.com/77198905/208309389-238cb68c-ab0d-436a-8412-3b19191733cc.png)
